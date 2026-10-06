@@ -20,4 +20,4 @@ I am a CS student at CSU Fresno with a passion for game development, C++ softwar
 
 ### 📫 Connect with Me
 - **Email:** mouajustin1@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/justin-moua-7b3616268]
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/justin-moua-7b3616268)
