@@ -9,6 +9,7 @@ I am a CS student at CSU Fresno with a passion for game development, C++ softwar
 - **Languages:** C++, C#, Python, SQL, Haskell
 - **Engines & Tools:** Unity, Visual Studio Code, Git/GitHub, Windows PowerShell
 - **Focus Areas:** Game Mechanics, State Management, Object-Oriented Design, System Programming
+- **Data Structures & Algorithms:** Daily practice on [LeetCode Solutions](https://github.com/Projustin1/LeetCode-Practice) (C++ & Python)
 
 ---
 
